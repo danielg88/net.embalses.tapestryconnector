@@ -1,0 +1,10 @@
+{
+	"id": "net.embalses.tapestryconnector",
+	"display_name": "Embalses.net",
+    "service_name": "EMBALSES.NET",
+    "site": "https://www.embalses.net",
+    "icon": "https://www.embalses.net/favicon-embalses.ico",
+    "item_style": "article",
+    "provides_attachments": true,
+    "default_color": "blue",
+}
